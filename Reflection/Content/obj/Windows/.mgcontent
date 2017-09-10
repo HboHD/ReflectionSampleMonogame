@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Piotrek/Desktop/Reflection/Reflection/Content/BGScene.jpg</File>
+    <File>C:/Users/Piotrek/Desktop/Reflection/Reflection/Content/ColorMap.jpg</File>
+    <File>C:/Users/Piotrek/Desktop/Reflection/Reflection/Content/Overlay.png</File>
+    <File>C:/Users/Piotrek/Desktop/Reflection/Reflection/Content/PostProcess.fx</File>
+    <File>C:/Users/Piotrek/Desktop/Reflection/Reflection/Content/Shader.fx</File>
+    <File>C:/Users/Piotrek/Desktop/Reflection/Reflection/Content/sky_dome2.png</File>
+    <File>C:/Users/Piotrek/Desktop/Reflection/Reflection/Content/Object.X</File>
+    <File>C:/Users/Piotrek/Desktop/Reflection/Reflection/Content/sphere.dae</File>
+  </SourceFiles>
+</SourceFileCollection>

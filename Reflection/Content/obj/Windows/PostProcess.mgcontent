@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Piotrek/Desktop/Reflection/Reflection/Content/PostProcess.fx</SourceFile>
+  <SourceTime>2017-09-10T19:25:05.7204863+02:00</SourceTime>
+  <DestFile>C:/Users/Piotrek/Desktop/Reflection/Reflection/Content/bin/Windows/PostProcess.xnb</DestFile>
+  <DestTime>2017-09-10T19:25:08.3240942+02:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2017-06-03T04:45:46+02:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2017-06-03T04:45:46+02:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
